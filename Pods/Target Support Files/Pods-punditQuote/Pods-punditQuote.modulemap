@@ -1,0 +1,6 @@
+framework module Pods_punditQuote {
+  umbrella header "Pods-punditQuote-umbrella.h"
+
+  export *
+  module * { export * }
+}

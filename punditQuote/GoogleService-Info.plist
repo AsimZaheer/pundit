@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC-kBKP9ZY0y9h6fkMKXVgBkY9q9GPvmPk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>991799105727</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>asimzaheer.punditQuote</string>
+	<key>PROJECT_ID</key>
+	<string>pundit-admin-panel</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pundit-admin-panel.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:991799105727:ios:5f220f4403164dc62c4e0a</string>
+	<key>DATABASE_URL</key>
+	<string>https://pundit-admin-panel-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
